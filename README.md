@@ -33,18 +33,17 @@
 
 ### Задание 2
 
-`Ссылка на коммит: https://github.com/s0182-sergeev/task1/commit/16b7a8f0e0d5ea5325106745aa6314fa9569fb95`
+Ссылка на коммит: https://github.com/s0182-sergeev/task1/commit/16b7a8f0e0d5ea5325106745aa6314fa9569fb95
 
-![Скриншот коммита](ссылка на скриншот 2)`
+![Скриншот коммита](https://github.com/s0182-sergeev/https-github.com-s0182-sergeev-8-01-git/blob/main/screenshot/screen2.png)
 
 
 ---
 
 ### Задание 3
 
-`Ссылка на граф коммитов: https://github.com/s0182-sergeev/task1/network`
+Ссылка на граф коммитов: https://github.com/s0182-sergeev/task1/network
 
-`При необходимости прикрепитe сюда скриншоты
-![Скриншот графа](ссылка на скриншот)`
+![Скриншот графа](https://github.com/s0182-sergeev/https-github.com-s0182-sergeev-8-01-git/blob/main/screenshot/screen3.png)
 
 ### Задание 4 - не выполнял
