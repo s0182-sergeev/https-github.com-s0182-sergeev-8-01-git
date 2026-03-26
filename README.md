@@ -26,7 +26,7 @@
 
 `Ссылка на коммит: https://github.com/s0182-sergeev/task1/commit/cd4fb80739fb8f8416ce84419e60ddde6006f571`
 
-[Скриншот коммита](https://github.com/s0182-sergeev/https-github.com-s0182-sergeev-8-01-git/blob/main/screenshot/screen1.png)`
+![Скриншот коммита](https://github.com/s0182-sergeev/https-github.com-s0182-sergeev-8-01-git/blob/main/screenshot/screen1.png)
 
 
 ---
