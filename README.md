@@ -21,7 +21,7 @@
 1. [Руководство по оформлению Markdown файлов](https://gist.github.com/Jekins/2bf2d0638163f1294637#Code)
 
 ---
-
+ 
 ### Задание 1
 
 Ссылка на коммит: https://github.com/s0182-sergeev/task1/commit/cd4fb80739fb8f8416ce84419e60ddde6006f571
